@@ -26,7 +26,7 @@ cd CrewAI-Demo
 
 2. Create and activate a virtual environment:
 ```bash
-conda create -n crewai python==3.12 -y
+conda create -n crewai python==3.13 -y
 conda activate crewai
 ```
 
